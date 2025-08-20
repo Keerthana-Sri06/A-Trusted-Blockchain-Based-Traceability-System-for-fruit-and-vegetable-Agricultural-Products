@@ -10,7 +10,7 @@ Languages: Java, HTML, CSS, JavaScript, SQL
 
 Frameworks: JSP (JavaServer Pages), JDBC (for DB connectivity)
 
-Tools: Eclipse IDE, MySQL Workbench / XAMPP, GitHub
+Tools: Netbeans 8.0.2, MySQL Workbench / XAMPP, GitHub
 
 Server: Apache Tomcat
 
